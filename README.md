@@ -1,0 +1,4 @@
+NGenIC
+======
+
+Initial conditions generator
